@@ -1,0 +1,17 @@
+285c5e805541509b7f24ed91543ce424 *DESCRIPTION
+c9f1a4284eb1258630f80e837d58bc8f *NAMESPACE
+7dd0e7c1529eeaae5653456f5ddca0a4 *NEWS.md
+4d86e092a32b4def87be366183faa030 *R/cv_gee.R
+c47dc617f33a8706c9b681b4ec7fbb89 *README.md
+39348fc29e3fc8e00f940105ef3a0d2a *build/vignette.rds
+0c91cfcab65d67a057f0901de1b8a9f9 *data/aids.rda
+fdcb143258d4bc1d5b5ae502dbdb9a1b *data/pbc2.rda
+9298a7a434e4dbaba448b4a8ea030e9c *inst/doc/Scoring_Rules_GEE.R
+b5a26836e3415db762cd26afab69d499 *inst/doc/Scoring_Rules_GEE.Rmd
+106cfe9a87ad064958a22222a4c51b23 *inst/doc/Scoring_Rules_GEE.html
+6b3e3608f33349e64ff8a5c17584e537 *man/aids.Rd
+4a80d165e6864399c21cc82d80921245 *man/cvGEE.Rd
+c50112a3d6169a35f5469443edb79fe1 *man/cv_gee.Rd
+b564e3ffe051109c622a8c8a069a67d6 *man/figures/logo.png
+d6f6ca334bcf99bf73390c85255efbeb *man/pbc.Rd
+b5a26836e3415db762cd26afab69d499 *vignettes/Scoring_Rules_GEE.Rmd
